@@ -7,6 +7,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+        "ext-bcmath": "*",
+        "ext-gd": "*",
+        "ext-intl": "*",
+        "ext-zip": "*",
         "doctrine/dbal": "^4.3",
         "filament/filament": "^3.2",
         "guzzlehttp/guzzle": "^7.10",
